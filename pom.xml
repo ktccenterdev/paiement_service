@@ -11,7 +11,7 @@
 	<groupId>net.ktc</groupId>
 	<artifactId>modepaiemnt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>modepaiement-service</name>
+	<name>webpanel-paiement</name>
 	<description>Service de gestion des modepaiements</description>
 	<properties>
 		<java.version>1.8</java.version>
